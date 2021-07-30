@@ -11,8 +11,8 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Gameoantuxi/>
-        {/* <BookingTicket/> */}
+        {/* <Gameoantuxi/> */}
+        <BookingTicket/>
         
       </div>
     )
