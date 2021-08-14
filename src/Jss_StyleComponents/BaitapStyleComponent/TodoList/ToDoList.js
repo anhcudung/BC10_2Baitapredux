@@ -225,7 +225,7 @@ class ToDoList extends Component {
     }
   }
 }
-
+//mapState
 const mapStateToProps = (state) => {
   return {
     themeToDoList: state.ToDoListReducer.themeToDoList,
